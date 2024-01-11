@@ -1,0 +1,13 @@
+html {
+	box-sizing: border-box;
+}
+
+* {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	background-color: var(--bg-main);
+}
