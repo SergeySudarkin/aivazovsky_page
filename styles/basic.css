@@ -24,7 +24,16 @@ a {
 }
 
 .container {
-	max-width: 970px;
+	max-width: 990px;
 	margin: 0 auto;
-	padding: 0 10px;
+	padding: 0 20px;
+}
+
+.divider {
+	margin: 15px auto;
+	border: none;
+	height: 1px;
+	width: 100%;
+	max-width: 420px;
+	background-color: var(--font-color-gray);
 }
